@@ -95,7 +95,6 @@ ros2 launch so_arm_gz so_arm_gz_bringup.launch.py arm_id:=so_arm101 gazebo_gui:=
 | 数据采集 | `collect_dataset.py` —— 在仿真场景里自动采集训练数据 |
 | 仿真资产 | `so_arm101/` —— 场景、快递盒模型、对上游 ROS2 包的必要改动 |
 | 面单识别 | `ocr_infer.py`、`gen_waybill.py` |
-| 上一版存档 | `legacy/` —— 双 Panda 实现（第一版技术分享所用） |
 | 文档 | `docs/` —— 阶段汇报、演讲讲稿、真机迁移计划 |
 
 ## 📊 当前进度
